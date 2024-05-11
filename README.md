@@ -24,7 +24,7 @@
         <li>JavaScript</li>
         <li>HTML</li>
         <li>CSS</li>
-        <li>External Weather API (e.g., OpenWeatherMap, Weatherstack, etc.)</li>
+        <li>External Weather API (e.g., OpenWeatherMap, Weatherstack,RapidAPI etc.)</li>
     </ul>
 
 <h2>Setup Instructions</h2>
