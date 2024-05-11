@@ -43,13 +43,12 @@
     </ol>
 
 <h2>Credits</h2>
-    <p>[Your Name or Organization]</p>
+    <p>Anuj054</p>
 
-<h2>License</h2>
-    <p>[License information]</p>
+
 
  <h2>Demo</h2>
-    <p>[Optional: Add a link to a live demo or a screenshot/gif of the app in action]</p>
+    <p><img src="./Weather/2.png"></p>
 </body>
 </html>
 
